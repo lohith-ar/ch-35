@@ -1,3 +1,7 @@
+# Problem Statement – Text Analyzer
+
+<img src="img/img1.png" align="right" width="400"/>
+
 Making lists is a routine activity in our daily lives. During the week we may make a list of things to be purchased over the weekend. Or it may be a list of people we wish to invite for dinner. In its simplest form a list consists of a series of items ordered sequentially. A simple list of names could look like:
 
 1.	Michael Jackson
@@ -5,6 +9,7 @@ Making lists is a routine activity in our daily lives. During the week we may ma
 3.	Taylor Swift 
 4.	Paul McCartney
 5.	Kishore Jumar
+
 
 A phone list could look like (phone numbers have been masked):
 
@@ -14,7 +19,8 @@ A phone list could look like (phone numbers have been masked):
 4.	Barry L		617XYZ2315
 5.	Deepak V	510ABC3216
 
-<img src="img/img1.png" align="left" width="200"/>
+
+
 
 And a more complex list - for example, a shopping list could look like:
 
