@@ -1,4 +1,4 @@
-## Boilerplate Repository - Challenge-35 - Searching For A Product
+## Boilerplate Repository - Challenge-35 - Text Analyzer
 
 ### Instructions
 Refer the [PROBLEM.md](./PROBLEM.md) file for problem description.
